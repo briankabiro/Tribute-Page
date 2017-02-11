@@ -6,3 +6,7 @@ body{
 	align-items: center;
 	max-width:100%;
 }
+img{
+	height:40vh;
+	margin-top:1em;
+}
